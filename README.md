@@ -5,6 +5,7 @@ Self-taught developer from Jakarta. I build tools that I actually use every day 
 ## What I build
 
 - **[workbench-mcp](https://github.com/nugrohosetiaji91-png/workbench-mcp)** - zero-dependency MCP server that turns a Windows workstation into a full AI-agent workbench. Pure Python stdlib. My daily driver: it powers the AI assistant that manages my machine, my VPS fleet, and even published itself to GitHub.
+- **[bookscope](https://github.com/nugrohosetiaji91-png/bookscope)** - lossless orderbook recorder for Polymarket prediction markets. The data pipeline behind my trading research: every book update, OBI timeseries, and liquidity event, streamed to gzipped JSONL.
 - **DocIntel** - commercial Windows desktop app for AI document analysis (CustomTkinter, BYO API key). Designed, built, and shipped solo.
 - **Algorithmic trading bots** - live market-making and momentum systems running 24/7 on Linux VPS. Deterministic log analytics, adaptive thresholds from rolling statistics, A/B tested across thousands of trades.
 - **Video automation pipeline** - Remotion + Lottie rendering pipeline for an Indonesian educational short-form channel.
