@@ -1,14 +1,23 @@
-# Hi, I'm Aji
+# Hi, I'm Aji 👋
 
-Self-taught developer from Jakarta. I build tools that I actually use every day - AI agent infrastructure, algorithmic trading systems, and desktop software.
+I'm a self-taught developer from Jakarta who builds software I actually use every day.
 
-## What I build
+AI agents are a core part of my daily workflow, helping me automate development, system administration, research, and data analysis. My interests span developer tools, desktop software, automation, AI infrastructure, and high-performance data processing.
 
-- **[workbench-mcp](https://github.com/nugrohosetiaji91-png/workbench-mcp)** - zero-dependency MCP server that turns a Windows workstation into a full AI-agent workbench. Pure Python stdlib. My daily driver: it powers the AI assistant that manages my machine, my VPS fleet, and even published itself to GitHub.
-- **[bookscope](https://github.com/nugrohosetiaji91-png/bookscope)** - lossless orderbook recorder for Polymarket prediction markets. The data pipeline behind my trading research: every book update, OBI timeseries, and liquidity event, streamed to gzipped JSONL.
-- **DocIntel** - commercial Windows desktop app for AI document analysis (CustomTkinter, BYO API key). Designed, built, and shipped solo.
-- **Algorithmic trading bots** - live market-making and momentum systems running 24/7 on Linux VPS. Deterministic log analytics, adaptive thresholds from rolling statistics, A/B tested across thousands of trades.
-- **Video automation pipeline** - Remotion + Lottie rendering pipeline for an Indonesian educational short-form channel.
+I enjoy building lightweight, reliable systems that solve real-world problems rather than experimental prototypes. Most of my projects start as personal tools and gradually evolve into production-ready open-source software.
+
+---
+
+## What I Build
+
+You can explore my repositories to see what I've been working on, including:
+
+- 🤖 AI infrastructure & Model Context Protocol (MCP)
+- ⚙️ Workflow automation & developer tools
+- 🖥️ Windows desktop applications
+- 📊 Data engineering & analytics
+- 📈 Market data collection & algorithmic systems
+- 🔬 Experimental AI integrations and productivity tools
 
 ## How I work
 
@@ -23,4 +32,15 @@ Python | SQLite/FTS5 | TypeScript/Remotion | Linux (Ubuntu/Debian) | PowerShell 
 
 ---
 
-Open to interesting problems. Reach me here on GitHub.
+I'm always open to:
+
+- Freelance opportunities
+- Open-source collaboration
+- Technical discussions
+- Interesting software projects
+- AI & automation consulting
+
+
+📧 **Email:** **nugrohosetiaji91@gmail.com**
+
+Feel free to explore my repositories, open an issue, or reach out if you'd like to collaborate.
